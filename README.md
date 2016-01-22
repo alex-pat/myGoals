@@ -5,6 +5,7 @@
 - [ ] Python
 - [ ] Git (deeper)
 - [ ] Neural networks
+- [ ] LaTeX
 - [ ] Anything else?
 
 
