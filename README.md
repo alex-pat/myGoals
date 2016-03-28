@@ -7,6 +7,7 @@
 - [ ] Neural networks
 - [ ] LaTeX
 - [ ] Anything else?
+- [ ] GNU Emacs + elisp
 
 
 #### Old
